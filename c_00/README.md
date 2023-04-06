@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Lista C 00 - C Piscine @42</h1>
 <h1 align="center">
 <img src="https://nadei.42sp.org.br/img/InsigneaP3.png" width= "100px">
