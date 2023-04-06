@@ -30,7 +30,7 @@ Lista Shell 00 - C Piscine @42
 - *Ex 07* - **b =>** Precisa ser feito usando diff e path. Recursos no material complementar. Objetivo, gerar o arquivo b a partir das diferenças do arquivo a e sw.
 - *Ex 08* - **clean =>** Comando que encontra os arquivos com '#' e '~', imprimam no terminal os arquivos encontrados e depois deletam. Precisa ser feito isso nas pastas e subpastas.<br>
 **Comandos:**<br>
-`-tipe`: tipo da busca.<br>
+`-type`: tipo da busca.<br>
 `f`: file, arquivo.<br>
 `-name`: filtrando por nome.<br>
 `print`: imprime no terminal.<br>
@@ -43,4 +43,4 @@ Lista Shell 00 - C Piscine @42
 3° Parâmetro: *valor*<br>
 4° Parâmetro: *string a ser impressa*<br>
 Para testar utilize o comando: <br>
-`file -s <nome_arquivo>`
+`file -s <nome_arquivo> *`
